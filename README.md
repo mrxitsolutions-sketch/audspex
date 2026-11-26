@@ -1,9 +1,16 @@
-# AudSpeX Hearing Healthcare Platform
+# AudSpeX
 
-**MRX IT SOLUTIONS** · Audiology & web
+**MRX IT SOLUTIONS · Audiology reporting**
 
-A hearing healthcare web application with patient and professional workspaces, report drafting, and visual explanations of audiology topics.
+[Visit the live AudSpeX website](https://audspex.com/) · [Read the case study](audspex-case-study.pdf)
 
-The app separates assessment and report interfaces from the backend. Responsive layouts support phones and larger screens, and interactive hearing illustrations help explain concepts on the site.
+AudSpeX is a deployed browser-based audiology reporting platform for clinicians and patients. It supports clinician-entered PTA and tympanometry measurements, report design, publishing and patient access to published reports.
 
-[Case study (PDF)](audspex-case-study.pdf)
+## What the platform offers
+
+- PTA audiogram and tympanometry reporting workflows.
+- Custom letterheads, graph settings and report layouts.
+- Review, publishing and print or PDF output.
+- Patient access to published reports and a community section.
+
+The application uses a browser frontend, a Node.js backend and persistent data storage.
